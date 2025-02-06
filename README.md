@@ -35,7 +35,7 @@ Ensure you have the following libraries installed in your Arduino IDE:
 | D5 (GPIO14) | MISO |
 | GND | GND |
 | 3.3V | VCC |
-| RST | RST |
+| D3 (GPIO 0) | RST |
 
 ## How It Works
 1. The ESP8266 connects to a Wi-Fi network.
