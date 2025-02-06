@@ -56,6 +56,8 @@ The system hosts a webpage where users can:
 - View attendance records in a table format.
 - Automatically update data without refreshing the page.
 
+![Screenshot (74)](https://github.com/user-attachments/assets/99abe1df-964b-49e8-a8ad-9363f96fd4c0)
+
 ## Example RFID Tags
 Modify the `getEmployeeName(String uid)` function to map RFID UIDs to employee names.
 ```cpp
